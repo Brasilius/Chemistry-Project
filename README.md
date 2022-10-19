@@ -1,5 +1,5 @@
 # Chemistry Project
-This will literally do your chemistry for you. Like on god frfr
+This is a light weight program designed to help students in chemistry students by facilitating some easy calculation
 
 On a more serious note, this is a heavy work-in-progress chemistry program. All I currently have planned is to:
 - read off g/Mol ratios(COMPLETE!)
