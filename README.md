@@ -7,3 +7,4 @@ On a more serious note, this is a heavy work-in-progress chemistry program. All 
 - perform g -> mol calculations(soon)
 - Balance Chemical equations(later lol)
 - create lewis and molecular perspective diagrams(WAY later)
+- UI update (soon maybe?)
