@@ -1,4 +1,4 @@
-# I-got-bored-in-chemistry
+# Chemistry Project
 This will literally do your chemistry for you. Like on god frfr
 
 On a more serious note, this is a heavy work-in-progress chemistry program. All I currently have planned is to:
